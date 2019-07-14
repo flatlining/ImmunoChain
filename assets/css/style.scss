@@ -2,6 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-footer, header>ul {
+footer, header>ul, p[class="view"] {
   display: none !important;
 }
